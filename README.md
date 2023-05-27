@@ -1,16 +1,28 @@
-# hw4
+# 無法備餐之高齡者的訂餐系統
 
-A new Flutter project.
+## 問題一:高齡者食物特殊性
+### 問題:
+隨著年齡增長，身體的消化系統不如以往，並不是所有的食物都適合高齡者食用。
+### 解決的必要性:
+市面上的外送平台大部分都已大眾為主，未考量到高齡者的飲食習慣，導致餐點對高齡者而言不易消化也不易咀嚼
+### 解決方法:
+訂餐系統的餐點主要以符合高齡者需求的分類為主
 
-## Getting Started
+## 問題二   操作介面的使用
+### 問題:
+高齡著對於新科技的學習力不如年輕人，所以高齡者在使用應用程式上會比一般人更需要協助引導
+### 解決的必要性:
+市面上大多的應用程式有複雜的操作介面，讓高齡著無法適應
+### 解決方法:
+設計簡單的操作介面，減少單一介面存在的選項，取而代之的是透過介面的點選切換到下一介面，並有清晰明確的引導
 
-This project is a starting point for a Flutter application.
+## 架構圖
 
-A few resources to get you started if this is your first Flutter project:
+![螢幕擷取畫面 2023-05-27 172819 (2)](https://github.com/LinChiaEn/Restaurant_App/assets/93340978/3e4580d0-cbe0-4a8a-8205-ddaebc47397e)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 功能
+特殊主題選擇(易消化/易咀嚼…)
+簡單易上手的操作介面
+檢視完整餐點
+語音播放
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
